@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+//  "$phongdisablehalflambert" "1"
+	"$baseTexture" "models\weapons\knife_survival_bowie_csgo\csgo_leet"
+	"$bumpMap" "models\weapons\knife_survival_bowie_csgo\tm_arms_leet_normal"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+	"$phong" "0"
+	"$phongboost" "0"
+	"$phongfresnelranges" "[.1 .1 .1]"
+	"$basemapalphaphongmask" "1"
+	"$envmapfresnel" "1"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ 0.20 0.20 0.20 ]"
+}

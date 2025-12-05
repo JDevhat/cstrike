@@ -1,0 +1,11 @@
+vertexlitgeneric
+{
+	"$basetexture"              "models\infozona-51\weapons\karam_csgo_malachite/ct_gsg9_glove_color"
+	"$envmap"                   "env_cubemap"
+	"$envmaptint"               "[ .01 .01 .02 ]"
+	//"$bumpmap"                  "models\infozona-51\weapons\karam_csgo_malachite/ct_base_glove_normal"
+	"$rimlight"                 1
+	"$rimlightexponent"         4
+	"$rimlightboost"            1
+	"$rimmask"                  1
+}

@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$baseTexture" 				"models/weapons/by_chestor\karambit_Alima/csgo_karam"
+	"$phongexponenttexture" 	"models/weapons/by_chestor\karambit_Alima/csgo_karam_b"
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "50"
+	"$phongalbedoboost" "50"
+	"$phongfresnelranges" "[1 1 .1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "5"
+}

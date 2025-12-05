@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\infozona-51\weapons\karam_csgo_malachite/ct_arms_gign"
+	//"$bumpMap" "models\infozona-51\weapons\karam_csgo_malachite/ct_arms_normal"
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" ".2"
+	
+
+}
