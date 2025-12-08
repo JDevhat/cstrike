@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/weapons/cristals/awp/deep/awp"
+
+	"$phong" "1"
+	"$phongboost" "15"
+	"$phongalbedoboost" "15"
+	"$phongfresnelranges" "[.75 .75 .1]"
+	"$phongexponent" "20"
+	"$phongexponenttexture" "models/weapons/cristals/awp/deep/awp_exponent"
+ 
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "5"
+
+}
