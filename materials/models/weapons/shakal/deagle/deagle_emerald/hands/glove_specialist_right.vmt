@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{              
+	"$basetexture"              "models/weapons/shakal/deagle/deagle_emerald/hands/glove_specialsit"
+	"$bumpmap"                  "models/weapons/shakal/deagle/deagle_emerald/hands/Nor_1"
+	"$phongexponenttexture"     "models/weapons/shakal/deagle/deagle_emerald/hands/Exp_1"
+ 
+	"$phong"                "1"
+	"$phongboost"           "0.5"
+	"$phongtint"            "[1 1 1]"
+	"$phongfresnelranges"   "[.2 .2 1]"
+	"$rimlight"             "1"
+	"$rimlightexponent"     "9"
+	"$rimlightboost"        ".2"
+	"$rimmask"              1
+}

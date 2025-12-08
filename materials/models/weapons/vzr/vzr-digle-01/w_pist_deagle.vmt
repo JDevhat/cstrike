@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models\weapons\vzr\vzr-digle-01/w_pist_deagle"
+	"$selfillum" 1
+}

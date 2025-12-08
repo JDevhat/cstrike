@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\vzr\vzr-digle-01\deagle_skin1"
+	"$envmapmask" "models\weapons\vzr\vzr-digle-01\deagle_skin1_ref"
+	"$selfillum" 1
+	
+}
